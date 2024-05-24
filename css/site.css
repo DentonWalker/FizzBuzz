@@ -1,6 +1,6 @@
 :root {
-    --primary-color: #1d5888;
-    --secondary-color: #ff993b;
+    --primary-color: #0d0e0e;
+    --secondary-color: #ff0605;
     --dark-color: #292929;
     --white-color: #e7e7e7;
 }
@@ -43,7 +43,7 @@ footer {
     color: orangered;
 }
 
-.cssicon {
+.css3icon {
     color: rgb(11, 82, 214);
 }
 
